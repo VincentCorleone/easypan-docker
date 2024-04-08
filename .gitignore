@@ -1,0 +1,9 @@
+easypan-backend/
+easypan-0.0.1-SNAPSHOT.jar
+
+easypan-front/
+dist/
+
+.DS_Store
+init.sql
+.vscode/
